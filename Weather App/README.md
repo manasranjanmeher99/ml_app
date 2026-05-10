@@ -143,9 +143,9 @@ weather-dashboard/
 
 # 👨‍💻 Author
 
-## Manas Meher
+## Manas Ranjan Meher
 
-Aspiring Software Engineer | Data Science & Generative AI Enthusiast
+Aspiring Data Analyst | Data Science & Generative AI Enthusiast
 
 ### Skills
 - Python
@@ -165,8 +165,3 @@ If you like this project:
 🍴 Fork the project  
 📢 Share with others
 
----
-
-# 📜 License
-
-This project is licensed under the MIT License.

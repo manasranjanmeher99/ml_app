@@ -17,7 +17,7 @@ st.write("Latest real-time news updates")
 
 # ---------------- API KEY ---------------- #
 
-API_KEY = "pub_d18d91f5c02444e6bbfbed7b191eebb8"
+API_KEY = "API_KEY"
 
 # ---------------- SIDEBAR ---------------- #
 

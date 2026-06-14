@@ -17,11 +17,7 @@ Users can enter customer details through an interactive web interface and receiv
 
 ## 📷 Dashboard Preview
 
-Add your application screenshot here:
-
-```markdown
-![Customer Churn App](images/Customer Churn Prediction image.png)
-```
+![Customer Churn Prediction Dashboard](images/Customer%20Churn%20Prediction%20image.png)
 
 ---
 
